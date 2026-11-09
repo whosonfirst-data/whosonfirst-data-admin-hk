@@ -51,7 +51,7 @@
         "wk:page":"Wing_Lung_Wai"
     },
     "wof:country":"HK",
-    "wof:geomhash":"292c67208bf42f20b7624bf0b8390386",
+    "wof:geomhash":"b38b2ad78ae16b5a512b6ac6feb27ea1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     114.06853999999998,
     22.4404
 ],
-  "geometry": {"coordinates":[114.06853999999998,22.4404],"type":"Point"}
+  "geometry": {"coordinates":[114.06854,22.4404],"type":"Point"}
 }

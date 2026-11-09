@@ -50,7 +50,7 @@
         "wk:page":"San_Hui"
     },
     "wof:country":"HK",
-    "wof:geomhash":"dc9abfaad2b1a0535309025db5baff3f",
+    "wof:geomhash":"263c303a201b42b30b7c32f4d1e16d76",
     "wof:hierarchy":[
         {
             "country_id":85632483,
@@ -73,5 +73,5 @@
     113.97596,
     22.39877000000001
 ],
-  "geometry": {"coordinates":[113.97596,22.39877000000001],"type":"Point"}
+  "geometry": {"coordinates":[113.97596,22.39877],"type":"Point"}
 }

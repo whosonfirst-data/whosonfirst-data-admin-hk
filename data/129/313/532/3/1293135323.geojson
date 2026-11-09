@@ -65,7 +65,7 @@
         "wk:page":"Repulse_Bay"
     },
     "wof:country":"HK",
-    "wof:geomhash":"ce25a4b5f2981d458363680df715aec8",
+    "wof:geomhash":"2ed34f7f5d7a1c90350067144c730cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     114.19953999999998,
     22.23655
 ],
-  "geometry": {"coordinates":[114.19953999999998,22.23655],"type":"Point"}
+  "geometry": {"coordinates":[114.19954,22.23655],"type":"Point"}
 }

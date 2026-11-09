@@ -48,7 +48,7 @@
         "wk:page":"Wo_Liu_Hang"
     },
     "wof:country":"HK",
-    "wof:geomhash":"810395479d25a73f06259d81cdb2f292",
+    "wof:geomhash":"2b96b5376ba169d2220322fb9c7dba23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     114.1974,
     22.39952000000001
 ],
-  "geometry": {"coordinates":[114.1974,22.39952000000001],"type":"Point"}
+  "geometry": {"coordinates":[114.1974,22.39952],"type":"Point"}
 }

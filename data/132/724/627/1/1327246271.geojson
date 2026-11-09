@@ -58,7 +58,7 @@
         "wk:page":"Lok_Ma_Chau"
     },
     "wof:country":"HK",
-    "wof:geomhash":"b8323b5a752d084b486a3463a203f783",
+    "wof:geomhash":"e2f436eefcab2f43b76772fc6d351db3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     114.07916000000002,
     22.50946
 ],
-  "geometry": {"coordinates":[114.07916000000002,22.50946],"type":"Point"}
+  "geometry": {"coordinates":[114.07916,22.50946],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Ping_Yeung"
     },
     "wof:country":"HK",
-    "wof:geomhash":"507b8dba74e649c6b80485e6650070a3",
+    "wof:geomhash":"1433b1ce5162f3c006f4369679c41d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     114.16391000000002,
     22.5354
 ],
-  "geometry": {"coordinates":[114.16391000000002,22.5354],"type":"Point"}
+  "geometry": {"coordinates":[114.16391,22.5354],"type":"Point"}
 }

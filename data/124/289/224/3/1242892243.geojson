@@ -47,7 +47,7 @@
         "gn:id":1818874
     },
     "wof:country":"HK",
-    "wof:geomhash":"e73da9e1c8e472852734da46f8454121",
+    "wof:geomhash":"817bfd2e79f3052d4adfe23407b89c90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     113.99684,
     22.44052000000001
 ],
-  "geometry": {"coordinates":[113.99684000000001,22.44052000000001],"type":"Point"}
+  "geometry": {"coordinates":[113.99684,22.44052],"type":"Point"}
 }

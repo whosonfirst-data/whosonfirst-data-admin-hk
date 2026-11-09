@@ -59,7 +59,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459009979,
-    "wof:geomhash":"0bcc506f603b0ac3fd8a38a035b956e0",
+    "wof:geomhash":"947e43ba8ac3514737c0641df887c7db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     114.0,
     22.28333
 ],
-  "geometry": {"coordinates":[114.0,22.28333],"type":"Point"}
+  "geometry": {"coordinates":[114,22.28333],"type":"Point"}
 }

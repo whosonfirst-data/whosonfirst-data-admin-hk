@@ -57,7 +57,7 @@
         "wk:page":"Lam_Tin"
     },
     "wof:country":"HK",
-    "wof:geomhash":"197f196f0fb1f0d9f810b54a35efb61c",
+    "wof:geomhash":"f1cb044584558496fb6031bcca8d58e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     114.23633999999998,
     22.30933
 ],
-  "geometry": {"coordinates":[114.23633999999998,22.30933],"type":"Point"}
+  "geometry": {"coordinates":[114.23634,22.30933],"type":"Point"}
 }
