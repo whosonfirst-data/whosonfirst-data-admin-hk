@@ -1,0 +1,75 @@
+{
+  "id": 9895028719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17853,22.31197,114.17853,22.31197",
+    "geom:latitude":22.31197,
+    "geom:longitude":114.17853,
+    "gn:population":17407,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719847: name \"Oi Man Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719847"
+        },
+        {
+            "citation":"GeoNames populated place 12719847: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719847"
+        },
+        {
+            "citation":"GeoNames populated place 12719847: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719847"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671797 (Kowloon City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671797,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719847
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"e623dc105a0f42f765c6211d8380abc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028719,
+            "macroregion_id":1159397231,
+            "region_id":85671797
+        }
+    ],
+    "wof:id":9895028719,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Oi Man Estate",
+    "wof:parent_id":85671797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17853,
+    22.31197,
+    114.17853,
+    22.31197
+],
+  "geometry": {"coordinates":[114.17853,22.31197],"type":"Point"}
+}

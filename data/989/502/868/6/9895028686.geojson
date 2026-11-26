@@ -1,0 +1,75 @@
+{
+  "id": 9895028686,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15746,22.24304,114.15746,22.24304",
+    "geom:latitude":22.24304,
+    "geom:longitude":114.15746,
+    "gn:population":5175,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719798: name \"Yue On Court\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719798"
+        },
+        {
+            "citation":"GeoNames populated place 12719798: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719798"
+        },
+        {
+            "citation":"GeoNames populated place 12719798: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719798"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671789 (Southern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671789,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719798
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c9cb4b3aae9fbeb5def3739baf920a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028686,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":9895028686,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Yue On Court",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15746,
+    22.24304,
+    114.15746,
+    22.24304
+],
+  "geometry": {"coordinates":[114.15746,22.24304],"type":"Point"}
+}

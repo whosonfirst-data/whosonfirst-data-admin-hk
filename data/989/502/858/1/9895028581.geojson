@@ -1,0 +1,75 @@
+{
+  "id": 9895028581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15736,22.31939,114.15736,22.31939",
+    "geom:latitude":22.31939,
+    "geom:longitude":114.15736,
+    "gn:population":19373,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12689056: name \"Olympic\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12689056"
+        },
+        {
+            "citation":"GeoNames populated place 12689056: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12689056"
+        },
+        {
+            "citation":"GeoNames populated place 12689056: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12689056"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671791 (Yau Tsim Mong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671791,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12689056
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"e73786d3a623a4e26b85f8a9d08e1583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028581,
+            "macroregion_id":1159397231,
+            "region_id":85671791
+        }
+    ],
+    "wof:id":9895028581,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Olympic",
+    "wof:parent_id":85671791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15736,
+    22.31939,
+    114.15736,
+    22.31939
+],
+  "geometry": {"coordinates":[114.15736,22.31939],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18739,22.4382,114.18739,22.4382",
+    "geom:latitude":22.4382,
+    "geom:longitude":114.18739,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670359: name \"Tai Po Kau Tsuen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670359"
+        },
+        {
+            "citation":"GeoNames populated place 11670359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670359"
+        },
+        {
+            "citation":"GeoNames populated place 11670359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670359"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671843 (Tai Po), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671843,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670359
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"49ea6487d583353568082400edb1552d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028561,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":9895028561,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Tai Po Kau Tsuen",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18739,
+    22.4382,
+    114.18739,
+    22.4382
+],
+  "geometry": {"coordinates":[114.18739,22.4382],"type":"Point"}
+}

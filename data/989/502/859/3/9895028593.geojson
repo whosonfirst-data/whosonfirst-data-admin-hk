@@ -1,0 +1,75 @@
+{
+  "id": 9895028593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.27245,22.29315,114.27245,22.29315",
+    "geom:latitude":22.29315,
+    "geom:longitude":114.27245,
+    "gn:population":50000,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719433: name \"LOHAS Park\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719433"
+        },
+        {
+            "citation":"GeoNames populated place 12719433: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719433"
+        },
+        {
+            "citation":"GeoNames populated place 12719433: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719433"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671813 (Sai Kung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671813,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719433
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ec3312a3822e0e2974af11b72dfa2506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028593,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":9895028593,
+    "wof:lastmodified":1795735055,
+    "wof:name":"LOHAS Park",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.27245,
+    22.29315,
+    114.27245,
+    22.29315
+],
+  "geometry": {"coordinates":[114.27245,22.29315],"type":"Point"}
+}

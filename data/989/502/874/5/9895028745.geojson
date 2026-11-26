@@ -1,0 +1,75 @@
+{
+  "id": 9895028745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18673,22.34009,114.18673,22.34009",
+    "geom:latitude":22.34009,
+    "geom:longitude":114.18673,
+    "gn:population":16794,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12746547: name \"Wang Tau Hom Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12746547"
+        },
+        {
+            "citation":"GeoNames populated place 12746547: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12746547"
+        },
+        {
+            "citation":"GeoNames populated place 12746547: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12746547"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671805 (Wong Tai Sin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671805,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12746547
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ee47afa919d4da0dced3b98ae2378ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028745,
+            "macroregion_id":1159397231,
+            "region_id":85671805
+        }
+    ],
+    "wof:id":9895028745,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Wang Tau Hom Estate",
+    "wof:parent_id":85671805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18673,
+    22.34009,
+    114.18673,
+    22.34009
+],
+  "geometry": {"coordinates":[114.18673,22.34009],"type":"Point"}
+}

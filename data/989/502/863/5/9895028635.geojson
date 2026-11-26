@@ -1,0 +1,75 @@
+{
+  "id": 9895028635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15691,22.33227,114.15691,22.33227",
+    "geom:latitude":22.33227,
+    "geom:longitude":114.15691,
+    "gn:population":6200,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719580: name \"Lai Kok Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719580"
+        },
+        {
+            "citation":"GeoNames populated place 12719580: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719580"
+        },
+        {
+            "citation":"GeoNames populated place 12719580: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719580"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671799 (Sham Shui Po), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671799,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719580
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"646a26ec41b5a7782e070ded6f24caff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028635,
+            "macroregion_id":1159397231,
+            "region_id":85671799
+        }
+    ],
+    "wof:id":9895028635,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Lai Kok Estate",
+    "wof:parent_id":85671799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15691,
+    22.33227,
+    114.15691,
+    22.33227
+],
+  "geometry": {"coordinates":[114.15691,22.33227],"type":"Point"}
+}

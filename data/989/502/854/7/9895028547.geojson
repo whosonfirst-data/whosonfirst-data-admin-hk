@@ -1,0 +1,74 @@
+{
+  "id": 9895028547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2,22.35,114.2,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":114.2,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1819834: name \"Fung Wong Village\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1819834"
+        },
+        {
+            "citation":"GeoNames populated place 1819834: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1819834"
+        },
+        {
+            "citation":"GeoNames populated place 1819834: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1819834"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671805 (Wong Tai Sin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671805,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819834
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ad3e5ab0a4009970eef31d52a8671db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028547,
+            "macroregion_id":1159397231,
+            "region_id":85671805
+        }
+    ],
+    "wof:id":9895028547,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Fung Wong Village",
+    "wof:parent_id":85671805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2,
+    22.35,
+    114.2,
+    22.35
+],
+  "geometry": {"coordinates":[114.2,22.35],"type":"Point"}
+}

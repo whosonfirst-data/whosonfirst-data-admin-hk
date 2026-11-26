@@ -1,0 +1,75 @@
+{
+  "id": 9895028661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19411,22.28744,114.19411,22.28744",
+    "geom:latitude":22.28744,
+    "geom:longitude":114.19411,
+    "gn:population":3860,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719615: name \"Fortress Garden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719615"
+        },
+        {
+            "citation":"GeoNames populated place 12719615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719615"
+        },
+        {
+            "citation":"GeoNames populated place 12719615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719615"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671785 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671785,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719615
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"03794335797512a3a8f538620eaa8310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028661,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":9895028661,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Fortress Garden",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19411,
+    22.28744,
+    114.19411,
+    22.28744
+],
+  "geometry": {"coordinates":[114.19411,22.28744],"type":"Point"}
+}

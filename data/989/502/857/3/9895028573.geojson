@@ -1,0 +1,75 @@
+{
+  "id": 9895028573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.98815,22.43163,113.98815,22.43163",
+    "geom:latitude":22.43163,
+    "geom:longitude":113.98815,
+    "gn:population":11851,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640694: name \"Hung Shui Kiu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640694"
+        },
+        {
+            "citation":"GeoNames populated place 12640694: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640694"
+        },
+        {
+            "citation":"GeoNames populated place 12640694: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640694"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671833 (Yuen Long), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671833,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640694
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"5de716d6724e734ea362b5ae384ff765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028573,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":9895028573,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Hung Shui Kiu",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.98815,
+    22.43163,
+    113.98815,
+    22.43163
+],
+  "geometry": {"coordinates":[113.98815,22.43163],"type":"Point"}
+}

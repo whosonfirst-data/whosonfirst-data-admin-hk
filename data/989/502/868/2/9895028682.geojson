@@ -1,0 +1,75 @@
+{
+  "id": 9895028682,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.13964,22.25044,114.13964,22.25044",
+    "geom:latitude":22.25044,
+    "geom:longitude":114.13964,
+    "gn:population":9321,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719793: name \"Wah Kwai Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719793"
+        },
+        {
+            "citation":"GeoNames populated place 12719793: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719793"
+        },
+        {
+            "citation":"GeoNames populated place 12719793: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719793"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671789 (Southern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671789,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719793
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"5623d8a2819092685c99edcfb2a69a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028682,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":9895028682,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Wah Kwai Estate",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.13964,
+    22.25044,
+    114.13964,
+    22.25044
+],
+  "geometry": {"coordinates":[114.13964,22.25044],"type":"Point"}
+}

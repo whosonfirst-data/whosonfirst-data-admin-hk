@@ -1,0 +1,75 @@
+{
+  "id": 9895028721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18616,22.3163,114.18616,22.3163",
+    "geom:latitude":22.3163,
+    "geom:longitude":114.18616,
+    "gn:population":8696,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719849: name \"Lok Man Sun Chuen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719849"
+        },
+        {
+            "citation":"GeoNames populated place 12719849: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719849"
+        },
+        {
+            "citation":"GeoNames populated place 12719849: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719849"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671797 (Kowloon City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671797,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719849
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c5fc53acfe368228e044b4954973c78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028721,
+            "macroregion_id":1159397231,
+            "region_id":85671797
+        }
+    ],
+    "wof:id":9895028721,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Lok Man Sun Chuen",
+    "wof:parent_id":85671797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18616,
+    22.3163,
+    114.18616,
+    22.3163
+],
+  "geometry": {"coordinates":[114.18616,22.3163],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895028574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19584,22.37558,114.19584,22.37558",
+    "geom:latitude":22.37558,
+    "geom:longitude":114.19584,
+    "gn:population":15817,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687141: name \"Pok Hong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687141"
+        },
+        {
+            "citation":"GeoNames populated place 12687141: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687141"
+        },
+        {
+            "citation":"GeoNames populated place 12687141: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687141"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671817 (Sha Tin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671817,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687141
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"2943f3997783cfe1e81bae7329998147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028574,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":9895028574,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Pok Hong",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19584,
+    22.37558,
+    114.19584,
+    22.37558
+],
+  "geometry": {"coordinates":[114.19584,22.37558],"type":"Point"}
+}

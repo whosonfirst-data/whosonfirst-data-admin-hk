@@ -1,0 +1,75 @@
+{
+  "id": 9895028601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.97872,22.38128,113.97872,22.38128",
+    "geom:latitude":22.38128,
+    "geom:longitude":113.97872,
+    "gn:population":16423,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719540: name \"Sam Shing\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719540"
+        },
+        {
+            "citation":"GeoNames populated place 12719540: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719540"
+        },
+        {
+            "citation":"GeoNames populated place 12719540: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719540"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671831 (Tuen Mun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671831,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719540
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"603ff4c1230f7e2ad5c0da2e086f49a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028601,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":9895028601,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Sam Shing",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.97872,
+    22.38128,
+    113.97872,
+    22.38128
+],
+  "geometry": {"coordinates":[113.97872,22.38128],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.23333,22.33333,114.23333,22.33333",
+    "geom:latitude":22.33333,
+    "geom:longitude":114.23333,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1819176: name \"Pak Kung Au\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1819176"
+        },
+        {
+            "citation":"GeoNames populated place 1819176: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1819176"
+        },
+        {
+            "citation":"GeoNames populated place 1819176: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1819176"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671813 (Sai Kung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671813,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819176
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"957b69ddc3ca77981780373d957a7be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028520,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":9895028520,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Pak Kung Au",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.23333,
+    22.33333,
+    114.23333,
+    22.33333
+],
+  "geometry": {"coordinates":[114.23333,22.33333],"type":"Point"}
+}

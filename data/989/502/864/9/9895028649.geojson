@@ -1,0 +1,75 @@
+{
+  "id": 9895028649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.22549,22.28181,114.22549,22.28181",
+    "geom:latitude":22.28181,
+    "geom:longitude":114.22549,
+    "gn:population":3506,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719601: name \"Tung Tao Court\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719601"
+        },
+        {
+            "citation":"GeoNames populated place 12719601: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719601"
+        },
+        {
+            "citation":"GeoNames populated place 12719601: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719601"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671785 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671785,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719601
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c2a4d4e7bb40914416e929959e19bd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028649,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":9895028649,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Tung Tao Court",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.22549,
+    22.28181,
+    114.22549,
+    22.28181
+],
+  "geometry": {"coordinates":[114.22549,22.28181],"type":"Point"}
+}

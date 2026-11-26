@@ -1,0 +1,75 @@
+{
+  "id": 9895028695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1647,22.31382,114.1647,22.31382",
+    "geom:latitude":22.31382,
+    "geom:longitude":114.1647,
+    "gn:population":11335,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719809: name \"Charming Garden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719809"
+        },
+        {
+            "citation":"GeoNames populated place 12719809: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719809"
+        },
+        {
+            "citation":"GeoNames populated place 12719809: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719809"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671791 (Yau Tsim Mong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671791,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719809
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"498481d82b1cd892c32a5731b5941366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028695,
+            "macroregion_id":1159397231,
+            "region_id":85671791
+        }
+    ],
+    "wof:id":9895028695,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Charming Garden",
+    "wof:parent_id":85671791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1647,
+    22.31382,
+    114.1647,
+    22.31382
+],
+  "geometry": {"coordinates":[114.1647,22.31382],"type":"Point"}
+}

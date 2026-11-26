@@ -1,0 +1,74 @@
+{
+  "id": 9895028533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.24563,22.26367,114.24563,22.26367",
+    "geom:latitude":22.26367,
+    "geom:longitude":114.24563,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1819487: name \"Lok Kang Po\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1819487"
+        },
+        {
+            "citation":"GeoNames populated place 1819487: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1819487"
+        },
+        {
+            "citation":"GeoNames populated place 1819487: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1819487"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671785 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671785,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819487
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"4f0cec6c8b7ea2cb2aedf1e4ea9196f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028533,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":9895028533,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Lok Kang Po",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.24563,
+    22.26367,
+    114.24563,
+    22.26367
+],
+  "geometry": {"coordinates":[114.24563,22.26367],"type":"Point"}
+}

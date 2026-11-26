@@ -1,0 +1,75 @@
+{
+  "id": 9895028659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2487,22.26573,114.2487,22.26573",
+    "geom:latitude":22.26573,
+    "geom:longitude":114.2487,
+    "gn:population":6697,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719613: name \"Harmony Garden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719613"
+        },
+        {
+            "citation":"GeoNames populated place 12719613: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719613"
+        },
+        {
+            "citation":"GeoNames populated place 12719613: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719613"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671785 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671785,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719613
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"0f7369e955c23f3780fb04b048322a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028659,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":9895028659,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Harmony Garden",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2487,
+    22.26573,
+    114.2487,
+    22.26573
+],
+  "geometry": {"coordinates":[114.2487,22.26573],"type":"Point"}
+}

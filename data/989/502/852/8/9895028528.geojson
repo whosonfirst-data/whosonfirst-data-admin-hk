@@ -1,0 +1,74 @@
+{
+  "id": 9895028528,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.03333,22.2,114.03333,22.2",
+    "geom:latitude":22.2,
+    "geom:longitude":114.03333,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1819365: name \"Ma Yin Tung Pai Chong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1819365"
+        },
+        {
+            "citation":"GeoNames populated place 1819365: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1819365"
+        },
+        {
+            "citation":"GeoNames populated place 1819365: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1819365"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671847 (Islands), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671847,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819365
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"75b0b8551167b2ee2cb5de393b78e429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028528,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":9895028528,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Ma Yin Tung Pai Chong",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.03333,
+    22.2,
+    114.03333,
+    22.2
+],
+  "geometry": {"coordinates":[114.03333,22.2],"type":"Point"}
+}
