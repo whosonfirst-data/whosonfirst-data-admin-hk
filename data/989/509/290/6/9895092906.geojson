@@ -1,0 +1,75 @@
+{
+  "id": 9895092906,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.14616,22.24411,114.14616,22.24411",
+    "geom:latitude":22.24411,
+    "geom:longitude":114.14616,
+    "gn:population":29180,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719791: name \"South Horizons (Estate)\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719791"
+        },
+        {
+            "citation":"GeoNames populated place 12719791: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719791"
+        },
+        {
+            "citation":"GeoNames populated place 12719791: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719791"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671789 (Southern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671789,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719791
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"16135a1f0407b278655a6156926262ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895092906,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":9895092906,
+    "wof:lastmodified":1795747312,
+    "wof:name":"South Horizons (Estate)",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.14616,
+    22.24411,
+    114.14616,
+    22.24411
+],
+  "geometry": {"coordinates":[114.14616,22.24411],"type":"Point"}
+}
