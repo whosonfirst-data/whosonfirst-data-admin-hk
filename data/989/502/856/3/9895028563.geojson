@@ -1,0 +1,74 @@
+{
+  "id": 9895028563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20829,22.42987,114.20829,22.42987",
+    "geom:latitude":22.42987,
+    "geom:longitude":114.20829,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670361: name \"Science Park\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670361"
+        },
+        {
+            "citation":"GeoNames populated place 11670361: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670361"
+        },
+        {
+            "citation":"GeoNames populated place 11670361: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670361"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671843 (Tai Po), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671843,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670361
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"4b8959a9cd57903c8ef8d7f2dc4692f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028563,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":9895028563,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Science Park",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20829,
+    22.42987,
+    114.20829,
+    22.42987
+],
+  "geometry": {"coordinates":[114.20829,22.42987],"type":"Point"}
+}

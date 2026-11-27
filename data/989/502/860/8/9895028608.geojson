@@ -1,0 +1,75 @@
+{
+  "id": 9895028608,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1914,22.37609,114.1914,22.37609",
+    "geom:latitude":22.37609,
+    "geom:longitude":114.1914,
+    "gn:population":9424,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719548: name \"Jat Min Chuen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719548"
+        },
+        {
+            "citation":"GeoNames populated place 12719548: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719548"
+        },
+        {
+            "citation":"GeoNames populated place 12719548: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719548"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671817 (Sha Tin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671817,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719548
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"f400207af1ea03572e3b979bd8eb7ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028608,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":9895028608,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Jat Min Chuen",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1914,
+    22.37609,
+    114.1914,
+    22.37609
+],
+  "geometry": {"coordinates":[114.1914,22.37609],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895028491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18515,22.28189,114.18515,22.28189",
+    "geom:latitude":22.28189,
+    "geom:longitude":114.18515,
+    "gn:population":12777,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1818428: name \"Causeway Bay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1818428"
+        },
+        {
+            "citation":"GeoNames populated place 1818428: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1818428"
+        },
+        {
+            "citation":"GeoNames populated place 1818428: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1818428"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671779 (Wan Chai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671779,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818428
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"8ecbdd02b49ba6372377cb9f01ab530e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028491,
+            "macroregion_id":1159397233,
+            "region_id":85671779
+        }
+    ],
+    "wof:id":9895028491,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Causeway Bay",
+    "wof:parent_id":85671779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18515,
+    22.28189,
+    114.18515,
+    22.28189
+],
+  "geometry": {"coordinates":[114.18515,22.28189],"type":"Point"}
+}

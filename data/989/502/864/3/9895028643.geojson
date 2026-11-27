@@ -1,0 +1,75 @@
+{
+  "id": 9895028643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20454,22.28962,114.20454,22.28962",
+    "geom:latitude":22.28962,
+    "geom:longitude":114.20454,
+    "gn:population":3950,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719591: name \"Bedford Garden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719591"
+        },
+        {
+            "citation":"GeoNames populated place 12719591: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719591"
+        },
+        {
+            "citation":"GeoNames populated place 12719591: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719591"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671785 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671785,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719591
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"b2d1b26ffbb143d0d7d5c46731cddedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028643,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":9895028643,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Bedford Garden",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20454,
+    22.28962,
+    114.20454,
+    22.28962
+],
+  "geometry": {"coordinates":[114.20454,22.28962],"type":"Point"}
+}

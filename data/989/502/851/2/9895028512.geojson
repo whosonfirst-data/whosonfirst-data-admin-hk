@@ -1,0 +1,75 @@
+{
+  "id": 9895028512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.12554,22.28124,114.12554,22.28124",
+    "geom:latitude":22.28124,
+    "geom:longitude":114.12554,
+    "gn:population":14650,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1819031: name \"Sai Wan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1819031"
+        },
+        {
+            "citation":"GeoNames populated place 1819031: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1819031"
+        },
+        {
+            "citation":"GeoNames populated place 1819031: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1819031"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671775 (Central and Western), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671775,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819031
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"e540ef56c73a92f914c260e507cc0a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028512,
+            "macroregion_id":1159397233,
+            "region_id":85671775
+        }
+    ],
+    "wof:id":9895028512,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Sai Wan",
+    "wof:parent_id":85671775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.12554,
+    22.28124,
+    114.12554,
+    22.28124
+],
+  "geometry": {"coordinates":[114.12554,22.28124],"type":"Point"}
+}

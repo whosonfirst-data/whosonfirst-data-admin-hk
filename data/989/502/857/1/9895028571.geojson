@@ -1,0 +1,75 @@
+{
+  "id": 9895028571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19741,22.32425,114.19741,22.32425",
+    "geom:latitude":22.32425,
+    "geom:longitude":114.19741,
+    "gn:population":42552,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640684: name \"Kai Tak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640684"
+        },
+        {
+            "citation":"GeoNames populated place 12640684: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640684"
+        },
+        {
+            "citation":"GeoNames populated place 12640684: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640684"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671797 (Kowloon City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671797,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640684
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"3fc6e7a65d011717104777dbfdd160b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028571,
+            "macroregion_id":1159397231,
+            "region_id":85671797
+        }
+    ],
+    "wof:id":9895028571,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Kai Tak",
+    "wof:parent_id":85671797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19741,
+    22.32425,
+    114.19741,
+    22.32425
+],
+  "geometry": {"coordinates":[114.19741,22.32425],"type":"Point"}
+}

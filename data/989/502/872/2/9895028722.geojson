@@ -1,0 +1,75 @@
+{
+  "id": 9895028722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18691,22.34321,114.18691,22.34321",
+    "geom:latitude":22.34321,
+    "geom:longitude":114.18691,
+    "gn:population":6034,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12746516: name \"Tin Ma Court\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12746516"
+        },
+        {
+            "citation":"GeoNames populated place 12746516: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12746516"
+        },
+        {
+            "citation":"GeoNames populated place 12746516: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12746516"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671805 (Wong Tai Sin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671805,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12746516
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"91216bad1ffed9a48347cfdaab5036ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028722,
+            "macroregion_id":1159397231,
+            "region_id":85671805
+        }
+    ],
+    "wof:id":9895028722,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Tin Ma Court",
+    "wof:parent_id":85671805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18691,
+    22.34321,
+    114.18691,
+    22.34321
+],
+  "geometry": {"coordinates":[114.18691,22.34321],"type":"Point"}
+}

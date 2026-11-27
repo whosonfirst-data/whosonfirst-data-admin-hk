@@ -1,0 +1,75 @@
+{
+  "id": 9895028585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18696,22.37058,114.18696,22.37058",
+    "geom:latitude":22.37058,
+    "geom:longitude":114.18696,
+    "gn:population":16628,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12689062: name \"Sun Tin Wai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12689062"
+        },
+        {
+            "citation":"GeoNames populated place 12689062: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12689062"
+        },
+        {
+            "citation":"GeoNames populated place 12689062: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12689062"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671817 (Sha Tin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671817,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12689062
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"1c2e18f8a66be66266b4d66f5a9df69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028585,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":9895028585,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Sun Tin Wai",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18696,
+    22.37058,
+    114.18696,
+    22.37058
+],
+  "geometry": {"coordinates":[114.18696,22.37058],"type":"Point"}
+}

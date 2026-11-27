@@ -1,0 +1,74 @@
+{
+  "id": 9895028548,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.97472,22.39028,113.97472,22.39028",
+    "geom:latitude":22.39028,
+    "geom:longitude":113.97472,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1819858: name \"Fong Pin Sho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1819858"
+        },
+        {
+            "citation":"GeoNames populated place 1819858: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1819858"
+        },
+        {
+            "citation":"GeoNames populated place 1819858: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1819858"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671831 (Tuen Mun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671831,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819858
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"10ffa2e78c571c9624591c71788d5b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028548,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":9895028548,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Fong Pin Sho",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.97472,
+    22.39028,
+    113.97472,
+    22.39028
+],
+  "geometry": {"coordinates":[113.97472,22.39028],"type":"Point"}
+}

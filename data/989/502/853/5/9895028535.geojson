@@ -1,0 +1,74 @@
+{
+  "id": 9895028535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.23966,22.29333,114.23966,22.29333",
+    "geom:latitude":22.29333,
+    "geom:longitude":114.23966,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1819503: name \"Ling Nam San Tsuen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1819503"
+        },
+        {
+            "citation":"GeoNames populated place 1819503: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1819503"
+        },
+        {
+            "citation":"GeoNames populated place 1819503: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1819503"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671809 (Kwun Tong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671809,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819503
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c605e95d0b0f415691ed9392d845d0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028535,
+            "macroregion_id":1159397231,
+            "region_id":85671809
+        }
+    ],
+    "wof:id":9895028535,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Ling Nam San Tsuen",
+    "wof:parent_id":85671809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.23966,
+    22.29333,
+    114.23966,
+    22.29333
+],
+  "geometry": {"coordinates":[114.23966,22.29333],"type":"Point"}
+}

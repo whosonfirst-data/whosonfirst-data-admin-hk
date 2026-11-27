@@ -1,0 +1,75 @@
+{
+  "id": 9895028691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.16182,22.31715,114.16182,22.31715",
+    "geom:latitude":22.31715,
+    "geom:longitude":114.16182,
+    "gn:population":3873,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719804: name \"The Central Park\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719804"
+        },
+        {
+            "citation":"GeoNames populated place 12719804: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719804"
+        },
+        {
+            "citation":"GeoNames populated place 12719804: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719804"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671791 (Yau Tsim Mong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671791,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719804
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d2e018a357622bb1c80c01b8f129f56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028691,
+            "macroregion_id":1159397231,
+            "region_id":85671791
+        }
+    ],
+    "wof:id":9895028691,
+    "wof:lastmodified":1795735055,
+    "wof:name":"The Central Park",
+    "wof:parent_id":85671791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16182,
+    22.31715,
+    114.16182,
+    22.31715
+],
+  "geometry": {"coordinates":[114.16182,22.31715],"type":"Point"}
+}

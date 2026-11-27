@@ -1,0 +1,74 @@
+{
+  "id": 9895028749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.14094,22.35029,114.14094,22.35029",
+    "geom:latitude":22.35029,
+    "geom:longitude":114.14094,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425233: name \"Tai Wo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425233"
+        },
+        {
+            "citation":"GeoNames populated place 13425233: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425233"
+        },
+        {
+            "citation":"GeoNames populated place 13425233: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425233"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671823 (Kwai Tsing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671823,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425233
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"5ed5e71d1ee9e734d72900026dbd9fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028749,
+            "macroregion_id":1159397229,
+            "region_id":85671823
+        }
+    ],
+    "wof:id":9895028749,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Tai Wo",
+    "wof:parent_id":85671823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.14094,
+    22.35029,
+    114.14094,
+    22.35029
+],
+  "geometry": {"coordinates":[114.14094,22.35029],"type":"Point"}
+}

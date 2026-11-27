@@ -1,0 +1,75 @@
+{
+  "id": 9895028579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.11141,22.37621,114.11141,22.37621",
+    "geom:latitude":22.37621,
+    "geom:longitude":114.11141,
+    "gn:population":17325,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12689054: name \"Discovery Park\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12689054"
+        },
+        {
+            "citation":"GeoNames populated place 12689054: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12689054"
+        },
+        {
+            "citation":"GeoNames populated place 12689054: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12689054"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671827 (Tsuen Wan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671827,
+        102191569,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12689054
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"6f4878c7a6a71f8fe3fdfc56dbbf4e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028579,
+            "macroregion_id":1159397229,
+            "region_id":85671827
+        }
+    ],
+    "wof:id":9895028579,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Discovery Park",
+    "wof:parent_id":85671827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.11141,
+    22.37621,
+    114.11141,
+    22.37621
+],
+  "geometry": {"coordinates":[114.11141,22.37621],"type":"Point"}
+}

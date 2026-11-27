@@ -1,0 +1,75 @@
+{
+  "id": 9895028639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.13329,22.28481,114.13329,22.28481",
+    "geom:latitude":22.28481,
+    "geom:longitude":114.13329,
+    "gn:population":7265,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719584: name \"The Belcher's\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719584"
+        },
+        {
+            "citation":"GeoNames populated place 12719584: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719584"
+        },
+        {
+            "citation":"GeoNames populated place 12719584: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719584"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671775 (Central and Western), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671775,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719584
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"3000cf11fa5bb3fbe06b5d3463798834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028639,
+            "macroregion_id":1159397233,
+            "region_id":85671775
+        }
+    ],
+    "wof:id":9895028639,
+    "wof:lastmodified":1795735055,
+    "wof:name":"The Belcher's",
+    "wof:parent_id":85671775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.13329,
+    22.28481,
+    114.13329,
+    22.28481
+],
+  "geometry": {"coordinates":[114.13329,22.28481],"type":"Point"}
+}

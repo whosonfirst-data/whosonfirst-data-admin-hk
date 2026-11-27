@@ -1,0 +1,75 @@
+{
+  "id": 9895028725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20779,22.34132,114.20779,22.34132",
+    "geom:latitude":22.34132,
+    "geom:longitude":114.20779,
+    "gn:population":6615,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12746519: name \"Grand View Garden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12746519"
+        },
+        {
+            "citation":"GeoNames populated place 12746519: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12746519"
+        },
+        {
+            "citation":"GeoNames populated place 12746519: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12746519"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671805 (Wong Tai Sin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671805,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12746519
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"8b3c92ca320e9fba78b4f1676d8887f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028725,
+            "macroregion_id":1159397231,
+            "region_id":85671805
+        }
+    ],
+    "wof:id":9895028725,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Grand View Garden",
+    "wof:parent_id":85671805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20779,
+    22.34132,
+    114.20779,
+    22.34132
+],
+  "geometry": {"coordinates":[114.20779,22.34132],"type":"Point"}
+}

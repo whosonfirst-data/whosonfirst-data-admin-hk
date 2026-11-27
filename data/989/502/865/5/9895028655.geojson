@@ -1,0 +1,75 @@
+{
+  "id": 9895028655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20624,22.29117,114.20624,22.29117",
+    "geom:latitude":22.29117,
+    "geom:longitude":114.20624,
+    "gn:population":5278,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719608: name \"Healthy Village\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719608"
+        },
+        {
+            "citation":"GeoNames populated place 12719608: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719608"
+        },
+        {
+            "citation":"GeoNames populated place 12719608: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719608"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671785 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671785,
+        102191569,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719608
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d777b027b419fbc80ab58ccede71d33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028655,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":9895028655,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Healthy Village",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20624,
+    22.29117,
+    114.20624,
+    22.29117
+],
+  "geometry": {"coordinates":[114.20624,22.29117],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895028701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18556,22.31922,114.18556,22.31922",
+    "geom:latitude":22.31922,
+    "geom:longitude":114.18556,
+    "gn:population":3265,
+    "iso:country":"HK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719818: name \"Celestial Heights\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719818"
+        },
+        {
+            "citation":"GeoNames populated place 12719818: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719818"
+        },
+        {
+            "citation":"GeoNames populated place 12719818: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719818"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671797 (Kowloon City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483,
+        85671797,
+        102191569,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719818
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"5d580817b93878fc82b2241f228f8010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":9895028701,
+            "macroregion_id":1159397231,
+            "region_id":85671797
+        }
+    ],
+    "wof:id":9895028701,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Celestial Heights",
+    "wof:parent_id":85671797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18556,
+    22.31922,
+    114.18556,
+    22.31922
+],
+  "geometry": {"coordinates":[114.18556,22.31922],"type":"Point"}
+}
